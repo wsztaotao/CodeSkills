@@ -7,7 +7,7 @@
 | 目录 | 用途 |
 |------|------|
 | `closed-loop-rd/` | Plan→Design→Build→Test 闭环、版本化文档、Hooks、外部 Skill 准入 |
-| `sharpen-four-questions/` | 改题前四问：专家增量、原始素材、方法工具、独立证明，再写更深题目 |
+| `sharpen-four-questions/` | 专家增量、原始素材、方法工具、独立证明，再写更深题目 |
 
 ## 安装
 
